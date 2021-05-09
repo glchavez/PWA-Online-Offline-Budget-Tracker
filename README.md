@@ -6,7 +6,7 @@ This application allows users to track their daily transactions. In doing so, th
 
 Main challenges faced when creating this application was understanding the concept of a service worker and what code was required to do so. For future improvements, i would like to add a feature that tracks deposits and withdrawals, providing weekly and monthly reports on the totals for these two categories.
 
-To view the live budget app, click [here]().
+To view the live budget app, click [here](https://stark-mountain-04874.herokuapp.com/).
 
 ## Usage
 
