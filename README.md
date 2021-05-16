@@ -1,8 +1,10 @@
 # PWA-Online-Offline-Budget-Tracker
 
-## Description
-
 This application allows users to track their daily transactions. In doing so, they will be able to create a better budget with informed information on their spending habits.
+
+## Overview
+
+This application has input areas for users to add or subtract money from their total budget. On the top of the page, it shows the overall budget for quick reference.
 
 Main challenges faced when creating this application was understanding the concept of a service worker and what code was required to do so. For future improvements, i would like to add a feature that tracks deposits and withdrawals, providing weekly and monthly reports on the totals for these two categories.
 
